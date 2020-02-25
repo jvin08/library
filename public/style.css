@@ -1,0 +1,33 @@
+body{
+  background-size: cover;
+  background-image: url('https://cdn.glitch.com/7b43ab2d-bc9e-4a1d-bf7b-41ca29087f98%2Fbooks-every-aspiring-ceo-should-read.jpeg?v=1581192544561');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+}
+
+.border {
+  border-style: inset;
+  border-width: 1px;
+  margin: 10px;
+}
+
+#sampleui {
+  max-width: 450px;
+  margin-left: 5%;
+  height: 100%;
+}
+
+#sampleposting {
+  max-width: 450px;
+  text-align: center;
+  margin-left: 5%;
+}
+
+#userstories {
+  margin-left: 5%;
+}
+
+form {
+  padding: 5px;
+}
